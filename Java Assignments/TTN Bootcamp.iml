@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Java Assignemnts/2. Java Assignment2/ques1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Assignemnts/2. Java Assignment2/ques10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Assignemnts/2. Java Assignment2/ques11" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Assignemnts/2. Java Assignment2/ques13" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Assignemnts/2. Java Assignment2/ques2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Assignemnts/2. Java Assignment2/ques3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Assignemnts/2. Java Assignment2/ques4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Assignemnts/2. Java Assignment2/ques5" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Assignemnts/2. Java Assignment2/ques6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Assignemnts/2. Java Assignment2/ques7" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Assignemnts/2. Java Assignment2/ques8" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java Assignemnts/2. Java Assignment2/ques9" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
